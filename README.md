@@ -1,2 +1,2 @@
-# portofolio
-latihan portofolio
+# Latihan buat portofolio
+cuma practice iseng aja hehe
